@@ -1,0 +1,29 @@
+body{
+    background-color:#87ceeb;
+}
+#Fundo{
+    margin-top: 10px;
+    margin-left: 215px;
+    height: 1000px;
+    width: 1100px;
+    background-color: white;
+    border-style:double;
+}
+#titulo{
+    text-align: center;
+}
+img{
+    border-style:solid;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-left: 255px;
+    height: 400px;
+}
+.Fazer{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+li{
+    margin-bottom: 10px;
+    font-size: 17px;
+}
